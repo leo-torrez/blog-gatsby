@@ -1,11 +1,15 @@
 ---
-title: Postagem usando o netlify CMS
-description: Teste de postagem usando o CMS Netlify =)
+title: Compartilhando Vitórias
+description: >-
+  No mês de agosto, as equipes que participaram do sorteio foram: “RB Capital –
+  Alpes”, Fabrica SEE - do sistema Supletivo”...
 date: '2019-09-19 10:57:56'
 image: /assets/img/cover.png
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent consequat massa sed dui sagittis molestie. Suspendisse vel eros ipsum. Phasellus fringilla sagittis placerat. Fusce feugiat cursus est, ornare dapibus justo feugiat sit amet. Vestibulum et lacinia tellus, imperdiet venenatis mauris. Vestibulum eu lorem scelerisque, luctus ligula ac, auctor nisl. Phasellus ultricies eu mauris eu cursus. Ut nec varius tortor, vel lacinia justo. Mauris fringilla vitae urna non imperdiet. Nulla vel ligula id arcu placerat sodales tempus non velit. Nam sagittis, sapien ut aliquam condimentum, ante metus feugiat ex, sed tristique est lectus vel massa. Aliquam erat volutpat. Integer viverra cursus congue. Mauris dictum magna sed magna euismod aliquam. Sed orci nisi, ornare sed dolor ut, efficitur euismod nisi.
+Nossas vitórias e conquistas do dia a dia merecem ser celebradas! Por isso, convidamos você a comemorar e compartilhar esse momento conosco. Tire uma foto sua e de sua equipe em um momento importante do seu PROJETO - uma entrega feita com sucesso, um sprint que atingiu seus objetivos, um desafio superado – e encaminhe por e-mail para desenvolvimentotalentos@pitang.com.  Ao final de cada mês, sorteamos entre as equipes que se candidataram a grande vencedora. O time premiado ganha R$150,00 (cento e cinquenta reais) para celebrar da maneira que escolherem, mas sempre juntos!  
 
 
 
-Aenean eu lacinia felis. In mollis pretium euismod. Nam fermentum nulla at augue rutrum aliquet. Fusce dui arcu, faucibus ut posuere ut, rutrum sit amet eros. Proin non porta nibh. Sed tempor lorem vitae vestibulum consequat. Duis non enim a dolor imperdiet semper. Duis ut ligula lectus. Nunc id sapien quis leo auctor facilisis. Aliquam erat volutpat. Donec blandit nibh quis quam convallis, et vestibulum lectus congue. Aliquam interdum id turpis id mollis. Donec finibus viverra egestas.
+![O time premiado foi do projeto RB Capital](/assets/img/compartilhando_vitorias.jpg "Time RB Capital ")
+
+No mês de agosto, as equipes que participaram do sorteio foram: “RB Capital – Alpes”, Fabrica SEE - do sistema Supletivo”, “Projeto Devops CI/CD – São Paulo”, “SEE implantação do SEI na primeira gerência regional”. O sorteio ocorreu na presença de Cinthya Souza (Suporte) e o grupo sorteado foi o RB Capital – Alpes formado pela equipe: Willamis dos Santos,Thiago Jota, Luciana Campello, Renilson Albuquerque, Charllison Policarpo, Rodrigo Arcoverde, Ricardo Gilson e Massilon Gomes.
