@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: https://github.com/leo-torrez/blog-gatsby/
+  repo: leo-torrez/blog-gatsby/
   site_domain: https://blog-pitang.netlify.com/
   branch: master # Branch to update (optional; defaults to master)
 
