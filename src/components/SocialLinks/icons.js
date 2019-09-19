@@ -6,9 +6,6 @@ import { Instagram } from "styled-icons/boxicons-logos/Instagram"
 
 const Icons = {
   Github,
-  Twitter,
-  Youtube,
-  Unsplash,
   Instagram,
 }
 

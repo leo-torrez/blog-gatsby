@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `John Doe`,
-    position: `Backend Developer`,
-    description: `A blog about backend development and other cool stuff.`,
+    title: `Pitang News`,
+    position: ``,
+    description: `Portal de notícias semanais da Pitang.`,
     author: `@myblog`,
   },
   plugins: [

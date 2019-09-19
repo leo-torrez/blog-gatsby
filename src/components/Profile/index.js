@@ -11,10 +11,8 @@ const Profile = () => {
     query MySiteMetadata {
       site {
         siteMetadata {
-          author
           title
           description
-          position
         }
       }
     }
@@ -27,7 +25,7 @@ const Profile = () => {
         <S.ProfileAuthor>
           {title}
           <S.ProfilePosition>
-            {author} {position}
+            
           </S.ProfilePosition>
         </S.ProfileAuthor>
       </S.ProfileLink>

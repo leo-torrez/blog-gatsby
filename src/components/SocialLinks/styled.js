@@ -12,24 +12,26 @@ export const SocialLinksWrapper = styled.nav`
 export const SocialLinksList = styled.ul`
   align-items: center;
   display: flex;
-  justify-content: space-around;
+  justify-content: center;
   list-style: none;
 `
 
-export const SocialLinksItem = styled.li``
+export const SocialLinksItem = styled.li`
+  margin-right: 10px;
+`
 
 export const SocialLinksLink = styled.a`
-  color: var(--texts);
+  color: #fff;
   text-decoration: none;
   transition: color 0.5s;
   &:hover {
-    color: var(--highlight);
+    font-weight: bold;
   }
 `
 
 export const IconWrapper = styled.div`
   svg {
-    fill: #bbb !important;
+    fill: #fff !important;
   width: 30px;
   height: 30px;
   }
